@@ -1,4 +1,6 @@
-# SwimmingGame
+# Submergence
+##Finding code
+code for this project can be found under Assets >> code
 
 
 
